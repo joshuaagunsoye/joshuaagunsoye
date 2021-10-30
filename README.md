@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuaagunsoye
 - 👀 I’m interested in Full-stack application devlopment
 - 🌱 I’m currently learning HTML CSS and Javacript
-- 💞️ I’m looking to collaborate on web develoopment projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me via email joluwamuyiwa@gmail.com, Linkedin-- https://www.linkedin.com/in/joshua-o-agunsoye-87a652144/
 
 
