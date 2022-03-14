@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuaagunsoye
 - 👀 I’m a Full Stack Developer
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me via email joluwamuyiwa@gmail.com, Linkedin-- https://www.linkedin.com/in/joshua-o-agunsoye-87a652144/
+- 📫 How to reach me via email joluwamuyiwa@gmail.com, Linkedin-- https://www.linkedin.com/in/joshua-agunsoye-87a652144/
 
 
 <!---
